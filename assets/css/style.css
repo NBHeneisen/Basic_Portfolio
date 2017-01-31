@@ -1,0 +1,67 @@
+body {
+	background-image:url(assets/images/old_map/old_map.png);
+	
+}
+
+header {
+	background-color: #4aaaa5;
+	border-color: #cccccc;
+	float:left;
+	margin-left: 5%;
+	color: #ffffff;
+	padding: 0 20px 0 20px;
+	position:relative;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+h2 {
+	color:#4aaaa5;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+h3 {
+	color:#4aaaa5;
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+
+.hbar {
+	position:relative;
+	background-color: #ffffff;
+	text-align:right;
+	padding-right: 30%;
+	padding-top:20px;
+}
+
+.main {
+	float:left;
+	width: 650px; 
+}
+
+.my_image {
+	width: 200px;
+	height: 200px;
+}
+
+.logos {
+
+}
+
+.connect {
+	float:left;
+	width:270px;
+}
+
+p {
+	color: #777777;
+}
+
+footer {
+	color: #777777;
+	text-align:center;
+	clear:both;
+}
+
+a {
+	color: #777777;
+	text-decoration: none;
+}
